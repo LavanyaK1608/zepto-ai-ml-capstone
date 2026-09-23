@@ -1,5 +1,5 @@
 """
-Module 2 - Part B: Predictive Modeling
+Module 2 - Predictive Modeling
 Zepto Capstone - Analytics Pipeline
 """
 
@@ -29,9 +29,9 @@ df = pd.read_csv(OUT / "titanic_cleaned.csv")
 
 print("Loaded cleaned data:", df.shape)
 
-# -------------------------------------------------
+
 # 7. Stratified train/test split
-# -------------------------------------------------
+
 print("\n" + "="*60)
 print("7. STRATIFIED TRAIN/TEST SPLIT")
 print("="*60)
