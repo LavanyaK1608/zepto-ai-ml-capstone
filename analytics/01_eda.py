@@ -1,6 +1,5 @@
 """
 Module 2 - Analytics
-profiling, cleaning, EDA story, saves titanic_cleaned.csv
 """
 
 import pandas as pd

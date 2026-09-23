@@ -1,5 +1,4 @@
 # Zepto AI/ML Capstone Project
-
 ## My Approach
 I built the three modules as one connected platform. I started with the data pipeline because I wanted clean structured data first, then moved to analytics, and finally the support assistant. The main challenge was keeping the preprocessing strictly train-only in the modeling pipeline and making the support assistant fully offline with MOCK_LLM.
 
